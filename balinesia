@@ -54,107 +54,60 @@
 
 
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,XXX m3u8 Ask TV
-http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 BUTGO
-http://edge2.everyon.tv/etv2/phd772/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 BUTGO
-http://edge2.everyon.tv/etv2/pld772/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Cinero
-http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Delight Empire
-http://edge2.everyon.tv/etv2/phd63/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Girls TV
-http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Girls TV
-http://edge2.everyon.tv/etv2/phd501/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Honey
-http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Hot Movies
-http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 J Hot Girl
-http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 J Hot Girl HD
-http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Livething
-http://edge2.everyon.tv/etv2/phd64/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Livething Premium
-http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Ohdeok
-http://edge2.everyon.tv/etv2/pld993/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Ohdeok HD
-http://edge2.everyon.tv/etv2/phd993/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Okadai
-http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Okadai HD
-http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Paradise TV
-http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Penthouse
-http://edge2.everyon.tv/etv2/phd927/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Pink TV
-http://edge2.everyon.tv:80/etv2/phd62/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Plus TV
-http://edge2.everyon.tv/etv2/phd992/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Plus TV
-http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Sakura
-http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 Sakura HD
-http://edge2.everyon.tv/etv2/phd61/HasBahCa.m3u8
-#EXTINF:-1,XXX m3u8 The O
-http://edge2.everyon.tv/etv2/phd771/HasBahCa.m3u8
-#EXTINF:-1,XXX rtmp Ask TV
-rtmp://edge2.everyon.tv/etv2/phd1005
-#EXTINF:-1,XXX rtmp BUTGO
-rtmp://edge2.everyon.tv/etv2/phd772
-#EXTINF:-1,XXX rtmp BUTGO
-rtmp://edge2.everyon.tv/etv2/pld772
-#EXTINF:-1,XXX rtmp Cinero
-rtmp://edge2.everyon.tv/etv2/phd59
-#EXTINF:-1,XXX rtmp Delight Empire
-rtmp://edge2.everyon.tv/etv2/phd63
-#EXTINF:-1,XXX rtmp Girls TV
-rtmp://edge2.everyon.tv/etv2/phd501
-#EXTINF:-1,XXX rtmp Girls TV
-rtmp://edge2.everyon.tv/etv2/pld501
-#EXTINF:-1,XXX rtmp Honey
-rtmp://edge2.everyon.tv/etv2/phd928
-#EXTINF:-1,XXX rtmp Hot Movies
-rtmp://edge2.everyon.tv/etv2/phd511
-#EXTINF:-1,XXX rtmp J Hot Girl
-rtmp://edge2.everyon.tv/etv2/pld59
-#EXTINF:-1,XXX rtmp J Hot Girl HD
-rtmp://edge2.everyon.tv/etv2/phd59
-#EXTINF:-1,XXX rtmp Livething
-rtmp://edge2.everyon.tv/etv2/phd64
-#EXTINF:-1,XXX rtmp Livething Premium
-rtmp://edge2.everyon.tv/etv2/phd1006
-#EXTINF:-1,XXX rtmp Ohdeok
-rtmp://edge2.everyon.tv/etv2/pld993
-#EXTINF:-1,XXX rtmp Ohdeok HD
-rtmp://edge2.everyon.tv/etv2/phd993
-#EXTINF:-1,XXX rtmp Okadai
-rtmp://edge2.everyon.tv/etv2/pld1003
-#EXTINF:-1,XXX rtmp Okadai HD
-rtmp://edge2.everyon.tv/etv2/phd1003
-#EXTINF:-1,XXX rtmp Paradise TV
-rtmp://edge2.everyon.tv/etv2/pld1008
-#EXTINF:-1,XXX rtmp Penthouse
-rtmp://edge2.everyon.tv/etv2/phd927
-#EXTINF:-1,XXX rtmp Pink TV
-rtmp://edge2.everyon.tv:80/etv2/phd62
-#EXTINF:-1 group-title="成人,XXX rtmp Plus TV
-rtmp://edge2.everyon.tv/etv2/pld501
-#EXTINF:-1 group-title="成人,XXX rtmp Plus TV
-rtmp://edge2.everyon.tv/etv2/phd992
-#EXTINF:-1 group-title="成人,XXX rtmp Sakura
-rtmp://edge2.everyon.tv/etv2/pld61
-#EXTINF:-1 group-title="成人,XXX rtmp Sakura HD
-rtmp://edge2.everyon.tv/etv2/phd61
-#EXTINF:-1 group-title="成人,XXX rtmp The O
-rtmp://edge2.everyon.tv/etv2/phd771
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 9" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 9
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/52284
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 10" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 10
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/52285
+#EXTINF:-1 tvg-id="" tvg-name="([XX] ADULTO 11" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",([XX] ADULTO 11
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57091
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 12)" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 12
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57092
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 13" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 13
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57093
+#EXTINF:-1 tvg-id="" tvg-name="[XX] ADULTO 14" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 14
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57094
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 15" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 15
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57095
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 16" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 16
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57096
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 17" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 17
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57097
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 18" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 18
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57098
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 19" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 19
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57099
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 20" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 20
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57100
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 21" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 21
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57101
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 22" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 22
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57102
+#EXTINF:-1 tvg-id="" tvg-name="XX ADULTO 23" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",[XX] ADULTO 23
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/57113
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Jasmin TV" tvg-logo="http://i.imgur.com/DLEFDcv.png" group-title="Canais | Adultos",[XX] Jasmin TV
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/40305
+#EXTINF:-1 tvg-id="" tvg-name="[XX] PLAYBOY H265" tvg-logo="https://i.imgur.com/xGzpPfe.jpg" group-title="Canais | Adultos",[XX] PLAYBOY H265
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/51258
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Playboy TV" tvg-logo="http://i.imgur.com/f0APgjy.png" group-title="Canais | Adultos",[XX] Playboy TV
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/37061
+#EXTINF:-1 tvg-id="PlayboyTV FHD" tvg-name="[XX] Playboy TV  FHD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV  FHD
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/41513
+#EXTINF:-1 tvg-id="PlayboyTV" tvg-name="[XX] Playboy TV HD" tvg-logo="http://4.bp.blogspot.com/-zoABwtfCqyI/VnH8ehrNSwI/AAAAAAAAAdU/qZU8akpmPfE/s1600/PLAYBOYTVHD-2012.png" group-title="Canais | Adultos",[XX] Playboy TV HD
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/40749
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sextreme" tvg-logo="http://i.imgur.com/rxDFBSw.png" group-title="Canais | Adultos",[XX] Sextreme
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/37047
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Sexy Hot" tvg-logo="http://i.imgur.com/jv8XhSR.png" group-title="Canais | Adultos",[XX] Sexy Hot
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/37009
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Venus" tvg-logo="https://i.imgur.com/Ru2GvCs.png" group-title="Canais | Adultos",[XX] Venus
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/37026
+#EXTINF:-1 tvg-id="" tvg-name="[XX] Visit-X HD" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",[XX] Visit-X HD
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/40151
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin HD XX" tvg-logo="https://goo.gl/hZkcea" group-title="Canais | Adultos",Jasmin HD XX
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/56409
+#EXTINF:-1 tvg-id="" tvg-name="Miami TV Latina XX" tvg-logo="http://urlcurta.ml/WwbGE" group-title="Canais | Adultos",Miami TV Latina XX
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/56406
+#EXTINF:-1 tvg-id="" tvg-name="Visit-X" tvg-logo="http://urlcurta.ml/gbkuw" group-title="Canais | Adultos",Visit-X
+http://tv.minhalista.me:80/hermanobessa/hfz2c6hfz/56407
 
 
 #EXTINF:-1 group-title="成人",Playboy
