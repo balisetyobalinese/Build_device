@@ -55,8 +55,108 @@
 
 #EXTM3U
 #EXTM3U
-#EXTINF:-1 group-title="成人",Русская 
-http://188.113.190.15/318/tracks-v1a1/index.m3u8
+#EXTINF:-1,XXX m3u8 Ask TV
+http://edge2.everyon.tv/etv2/phd1005/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 BUTGO
+http://edge2.everyon.tv/etv2/phd772/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 BUTGO
+http://edge2.everyon.tv/etv2/pld772/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Cinero
+http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Delight Empire
+http://edge2.everyon.tv/etv2/phd63/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Girls TV
+http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Girls TV
+http://edge2.everyon.tv/etv2/phd501/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Honey
+http://edge2.everyon.tv/etv2/phd928/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Hot Movies
+http://edge2.everyon.tv/etv2/phd511/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 J Hot Girl
+http://edge2.everyon.tv/etv2/pld59/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 J Hot Girl HD
+http://edge2.everyon.tv/etv2/phd59/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Livething
+http://edge2.everyon.tv/etv2/phd64/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Livething Premium
+http://edge2.everyon.tv/etv2/phd1006/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Ohdeok
+http://edge2.everyon.tv/etv2/pld993/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Ohdeok HD
+http://edge2.everyon.tv/etv2/phd993/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Okadai
+http://edge2.everyon.tv/etv2/pld1003/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Okadai HD
+http://edge2.everyon.tv/etv2/phd1003/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Paradise TV
+http://edge2.everyon.tv/etv2/pld1008/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Penthouse
+http://edge2.everyon.tv/etv2/phd927/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Pink TV
+http://edge2.everyon.tv:80/etv2/phd62/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Plus TV
+http://edge2.everyon.tv/etv2/phd992/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Plus TV
+http://edge2.everyon.tv/etv2/pld501/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Sakura
+http://edge2.everyon.tv/etv2/pld61/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 Sakura HD
+http://edge2.everyon.tv/etv2/phd61/HasBahCa.m3u8
+#EXTINF:-1,XXX m3u8 The O
+http://edge2.everyon.tv/etv2/phd771/HasBahCa.m3u8
+#EXTINF:-1,XXX rtmp Ask TV
+rtmp://edge2.everyon.tv/etv2/phd1005
+#EXTINF:-1,XXX rtmp BUTGO
+rtmp://edge2.everyon.tv/etv2/phd772
+#EXTINF:-1,XXX rtmp BUTGO
+rtmp://edge2.everyon.tv/etv2/pld772
+#EXTINF:-1,XXX rtmp Cinero
+rtmp://edge2.everyon.tv/etv2/phd59
+#EXTINF:-1,XXX rtmp Delight Empire
+rtmp://edge2.everyon.tv/etv2/phd63
+#EXTINF:-1,XXX rtmp Girls TV
+rtmp://edge2.everyon.tv/etv2/phd501
+#EXTINF:-1,XXX rtmp Girls TV
+rtmp://edge2.everyon.tv/etv2/pld501
+#EXTINF:-1,XXX rtmp Honey
+rtmp://edge2.everyon.tv/etv2/phd928
+#EXTINF:-1,XXX rtmp Hot Movies
+rtmp://edge2.everyon.tv/etv2/phd511
+#EXTINF:-1,XXX rtmp J Hot Girl
+rtmp://edge2.everyon.tv/etv2/pld59
+#EXTINF:-1,XXX rtmp J Hot Girl HD
+rtmp://edge2.everyon.tv/etv2/phd59
+#EXTINF:-1,XXX rtmp Livething
+rtmp://edge2.everyon.tv/etv2/phd64
+#EXTINF:-1,XXX rtmp Livething Premium
+rtmp://edge2.everyon.tv/etv2/phd1006
+#EXTINF:-1,XXX rtmp Ohdeok
+rtmp://edge2.everyon.tv/etv2/pld993
+#EXTINF:-1,XXX rtmp Ohdeok HD
+rtmp://edge2.everyon.tv/etv2/phd993
+#EXTINF:-1,XXX rtmp Okadai
+rtmp://edge2.everyon.tv/etv2/pld1003
+#EXTINF:-1,XXX rtmp Okadai HD
+rtmp://edge2.everyon.tv/etv2/phd1003
+#EXTINF:-1,XXX rtmp Paradise TV
+rtmp://edge2.everyon.tv/etv2/pld1008
+#EXTINF:-1,XXX rtmp Penthouse
+rtmp://edge2.everyon.tv/etv2/phd927
+#EXTINF:-1,XXX rtmp Pink TV
+rtmp://edge2.everyon.tv:80/etv2/phd62
+#EXTINF:-1 group-title="成人,XXX rtmp Plus TV
+rtmp://edge2.everyon.tv/etv2/pld501
+#EXTINF:-1 group-title="成人,XXX rtmp Plus TV
+rtmp://edge2.everyon.tv/etv2/phd992
+#EXTINF:-1 group-title="成人,XXX rtmp Sakura
+rtmp://edge2.everyon.tv/etv2/pld61
+#EXTINF:-1 group-title="成人,XXX rtmp Sakura HD
+rtmp://edge2.everyon.tv/etv2/phd61
+#EXTINF:-1 group-title="成人,XXX rtmp The O
+rtmp://edge2.everyon.tv/etv2/phd771
+
+
 #EXTINF:-1 group-title="成人",Playboy
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 group-title="成人",Desire
@@ -71,70 +171,6 @@ http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Erox HD
 http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人",Nubiles TV HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6238/index.m3u
-#EXTINF:-1 group-title="成人",Naughty America
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6237/index.m3u
-#EXTINF:-1 group-title="成人",Playboy Plus
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6242/index.m3u
-#EXTINF:-1 group-title="成人",Private HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6245/index.m3u
-#EXTINF:-1 group-title="成人",Public Agent
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6246/index.m3u
-#EXTINF:-1 group-title="成人",RK Prime
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6248/index.m3u
-#EXTINF:-1 group-title="成人",Tiny4K
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6258/index.m3u
-#EXTINF:-1 group-title="成人",True Amateurs
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6260/index.m3u
-#EXTINF:-1 group-title="成人",Hard X
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6218/index.m3u
-#EXTINF:-1 group-title="成人",Hands on Hardcore
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6217/index.m3u
-#EXTINF:-1 group-title="成人",Got MYLF
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6216/index.m3u
-#EXTINF:-1 group-title="成人",Dorcel Club
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6197/index.m3u
-#EXTINF:-1 group-title="成人",Digital Playground HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6196/index.m3u
-#EXTINF:-1 group-title="成人",Dusk
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6198/index.m3u
-#EXTINF:-1 group-title="成人",Evil Angel HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6199/index.m3u
-#EXTINF:-1 group-title="成人",Digital Desire HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6195/index.m3u
-#EXTINF:-1 group-title="成人",DDF Network
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6194/index.m3u
-#EXTINF:-1 group-title="成人",DDF Busty
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6193/index.m3u
-#EXTINF:-1 group-title="成人",Cum Louder
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6189/index.m3u
-#EXTINF:-1 group-title="成人",Brazzers eXXtra
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6181/index.m3u
-#EXTINF:-1 group-title="成人",Blacked HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6178/index.m3u
-#EXTINF:-1 group-title="成人",Bang!
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6174/index.m3u
-#EXTINF:-1 group-title="成人",Bang Bros HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6173/index.m3u
-#EXTINF:-1 group-title="成人",Babes TV HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6172/index.m3u
-#EXTINF:-1 group-title="成人",Cherry Pimps
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6185/index.m3u
-#EXTINF:-1 group-title="成人",Club 17
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6186/index.m3u
-#EXTINF:-1 group-title="成人",Day with a Pornstar
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6192/index.m3u
-#EXTINF:-1 group-title="成人",Hitzefrei HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6220/index.m3u
-#EXTINF:-1 group-title="成人",Lethal Hardcore
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6229/index.m3u
-#EXTINF:-1 group-title="成人",MetArt HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6233/index.m3u
-#EXTINF:-1 group-title="成人",Vivid Red HD
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/2162/index.m3u
-#EXTINF:-1 group-title="成人",Adult Time
-http://az9j3kic.ukminlt.fun/iptv/5ZUGG7LM59VPFH/6166/index.m3u
 ######################################
 JAV 
 ######################################
